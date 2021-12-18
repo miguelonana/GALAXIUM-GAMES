@@ -1,0 +1,7 @@
+Quelle_est_la_duree_moyenne_de_l'incubation_du_Covid-19. 1-5_jours. 2-10_jours. 3-14_jours. 1-5_jours. 1 
+Quel_terme_est_employe_actuellement_pour_designer_les_personnes_confinees_par_precaution. 1-En_couvraine. 2-En_quarantaine. 3-En_isolaine. 2-En_quarantaine. 2
+Le_COVID-19_tue. 1-Deux_fois_plus_que_la_grippe. 2-Dix_fois_plus_que_la_grippe. 3-Cent_fois_plus_que_la_grippe. 2-Dix_fois_plus_que_la_grippe. 2
+comment_peut-on_se_proteger_du_COVID-19. 1-en_se_lavant_les_mains. 2-En_mangeant_5_fruits_et_legumes_par_jour. 3-En_buvant_des_boissons_chaudes. 1-en_se_lavant_les_mains. 1
+comment_peut-on_se_proteger_du_COVID-19. 1-en_serrant_les_mains_de_nos_amis_aulieu_de_les_embrasser. 2-En_faisant_du_sport. 3-en_restant_chez_sois_le_plus_possible. 3-en_restant_chez_sois_le_plus_possible. 3
+quel_est_l'un_des_symptomes_du_covid-19. 1-fievre_et_toux_seche. 2-bouttons_sur_le_visage. 3-anemie. 1-fievre_et_toux_seche. 1
+
